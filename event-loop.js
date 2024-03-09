@@ -83,3 +83,6 @@ const evenLoopFunc = () => {
     console.log("this is the end");
 };
 evenLoopFunc()
+
+//JSConf:https://youtu.be/8aGhZQkoFbQ?si=JZsV6vfeTNrYI5JD
+//https://youtu.be/DbRXv5TXMEE?si=w63k6QTfDDAZyAgo
